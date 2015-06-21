@@ -9,3 +9,7 @@ The files of the applications are:
 * server.R
 
 The application is accesible in: https://vourinho.shinyapps.io/Developing-Data-Products
+
+After a presentation of the application is disigned using slidify. The presentation could be visualized in:
+
+http://vourinho.github.io/index.html
